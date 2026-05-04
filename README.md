@@ -55,7 +55,7 @@ project/
 
 ```json
 {
-  "id": "generatedID"
+  "pasteID": "generatedID"
 }
 ```
 
@@ -106,7 +106,7 @@ Create a `.env` file:
 
 ```
 MONGO_URL=your_mongodb_connection_string
-PORT=8000
+PORT=xxxx
 ```
 
 ### 4. Run the server
@@ -119,8 +119,6 @@ npm start
 
 ## 🌐 Deployment
 
-* Frontend: Vercel
-* Backend: Railway / Render
 
 ---
 
@@ -166,9 +164,8 @@ Focused on building real-world applications and growing every single day.
 
 ## 🌟 Connect With Me
 
-* GitHub: https://github.com/<your-username>
-* LinkedIn: https://linkedin.com/in/<your-profile>
-
+* GitHub: https://github.com/adityasinhaa01
+* LinkedIn: https://linkedin.com/in/adityasinha001
 ---
 
 > Crafted with logic, patience, and a lot of debugging 😄🔥
