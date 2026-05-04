@@ -11,7 +11,7 @@ async function genPasteId (req, res) {
     pasteNote: body.content,
     visitHistory: []
   });
-  return res.json({id: shortID});
+  return res.json({pasteID: shortID});
 }
 
 module.exports = genPasteId;
